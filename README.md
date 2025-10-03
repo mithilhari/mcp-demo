@@ -15,8 +15,8 @@ This structure allows the model to maintain **conversation history (context)** a
 
 1.  **Clone the repository:**
     ```bash
-    git clone [YOUR-REPO-URL]
-    cd simple-model-context-app
+    git clone https://github.com/mithilhari/mcp-demo.git
+    cd mcp-demo
     ```
 2.  **Execute the script:**
     ```bash
